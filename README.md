@@ -5,4 +5,4 @@ Will be hosted locally and accessed by running:
 
 $ bin/rails server
 
-And opening a web browser and entering in http://localhost:3000/articles
+And opening a web browser and entering in http://localhost:3000
